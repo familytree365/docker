@@ -1,5 +1,7 @@
 # Docker Setup for Family Tree 365
 
+# The docker and docker-compose files need to be tested.
+
 ## Create root directory
 
 mkdir familytree365
